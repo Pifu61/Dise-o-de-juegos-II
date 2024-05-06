@@ -1,0 +1,6 @@
+C:\Users\Leo\Documents\6to\flutter
+C:\Users\Leo\AppData\Local\Android\sdk\emulator\emulator.exe
+3
+C:\Users\Leo\AppData\Local\Android\sdk\emulator\emulator.exe
+-avd
+Pixel_7_Pro_API_31
